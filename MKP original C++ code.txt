@@ -1,3 +1,8 @@
+// Original Code to solve the MKNAP instances fouind at (http://people.brunel.ac.uk/~mastjjb/jeb/orlib/mknapinfo.html)
+// Developed by Mohammed Alagha
+// June 2014
+
+
 #include <ilcplex/ilocplex.h>
 ILOSTLBEGIN
 
